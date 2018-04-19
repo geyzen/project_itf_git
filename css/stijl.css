@@ -1,4 +1,6 @@
 body {
     background-color: red;
     color: green;
+    width: 35px;
+    margin: auto;
 }
